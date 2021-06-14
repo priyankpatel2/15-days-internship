@@ -1,0 +1,2 @@
+rootProject.name = "Day_9_sharedref"
+include ':app'
